@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tpp": "cpp"
+    },
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "python.dataScience.jupyterServerURI": "http://localhost:8899/?token=da8a329025686ee75e5a4cb318173d9d8606e8b18c59f9b3",
+    "python.pythonPath": "/usr/bin/python3"
+}
